@@ -10,7 +10,7 @@ Arquivos de configuração necessário para usar
 - annotations.proto
 - http.proto
 
-Os dois vão está disponivel nesse link [google api]("https://github.com/googleapis/googleapis/tree/master/google/api")
+Os dois vão está disponivel nesse link [google api](https://github.com/googleapis/googleapis/tree/master/google/api)
 
 
 Vai ser preciso instalar algumas dependecias
@@ -27,7 +27,7 @@ já existe um comando criado no Makefile que já instala todos esses pacotes
 make init
 ```
 
-Para conseguir converter os arquivos `.proto`. É necessário instalar o [protobuf]("https://grpc.io/docs/protoc-installation"). Basta seguir como instalar na sua plataforma.
+Para conseguir converter os arquivos `.proto`. É necessário instalar o [protobuf](https://grpc.io/docs/protoc-installation). Basta seguir como instalar na sua plataforma.
 
 ## Testando projeto
 
